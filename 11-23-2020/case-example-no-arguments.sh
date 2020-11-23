@@ -1,4 +1,4 @@
-case $GREETING in
+case "$GREETING" in
 	hello|hi)
 		echo "hello yourself"
 		;;
