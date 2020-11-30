@@ -23,3 +23,5 @@ print(output.format(
     my_value_integer_type,
     my_value_string_evaluated,
     my_value_string_evaluate_type))
+
+
