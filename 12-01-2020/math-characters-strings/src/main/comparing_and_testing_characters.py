@@ -12,4 +12,3 @@ elif user_input >= '0' and user_input <= '9':
     print(user_input + " is a numeric character")
 else:
     print(user_input + " is not a alphanumeric character")
-
